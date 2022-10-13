@@ -1,0 +1,30 @@
+
+
+
+.left{
+		  BACKGROUND:Ghostwhite;
+		 WIDTH:25%;
+		   HEIGHT:200PX;
+		   padding:20px 5PX 50PX;
+		 DISPLAY:INLINE-BLOCK;
+		  height:100vh;
+
+		 }
+	  img{
+		 DISPLAY:BLOCK;
+		 MAX-WIDTH:75%;
+		 MAX-HEIGHT:65%;
+		 BORDER: 1PX SOLID #000000;
+		 MARGIN:20PX AUTO;
+
+		}
+
+
+		 .right
+		 {
+		DISPLAY:INLINE-BLOCK;
+		WIDTH:73%;
+		FLOAT:RIGHT;
+		}
+
+/
